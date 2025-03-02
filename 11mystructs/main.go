@@ -9,6 +9,7 @@ func main() {
 	ykp := User{"Yogesh", "ykp.kgp@gmail.com", true, 23}
 
 	fmt.Println(ykp)
+	fmt.Println("Hey")
 	fmt.Printf("Yogesh's details are: %+v\n", ykp)
 }
 
